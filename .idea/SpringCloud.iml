@@ -7,7 +7,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="module" module-name="userManager" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
