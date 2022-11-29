@@ -16,5 +16,6 @@
         <module>pbpmall-product</module>
         <module>renren-fast</module>
         <module>renren-generator</module>
+        <module>pbpmall-common</module>
     </modules>
 </project>
